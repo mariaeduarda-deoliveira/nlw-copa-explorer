@@ -22,6 +22,8 @@ Esse projeto foi desenvolvido com as seguintes tecnlogias:
 
 O calendário da Copa é um projeto que mostra os jogos da Copa do Mundo de 2022.
 
+É um calendário pessoal de jogos que eu gostaria de assistir.
+
 <h2 align="center">
 <a href="https://mariaeduarda-deoliveira.github.io/nlw-copa-explorer/">Veja o projeto aqui!</a></h2>
 
